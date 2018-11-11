@@ -1,6 +1,7 @@
 require './classes'
 require 'gh_gem_hw5_test_suite'
 
+def tasks
 # -----------------------------------------------------------------
 task = '1.3'
 puts "----| Execution 1 | of task #{task} -----".white.on_black
@@ -130,3 +131,4 @@ test_1_6
 test_1_12
 test_1_15
 test_1_16
+end
