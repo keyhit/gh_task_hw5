@@ -1,7 +1,7 @@
+def tasks
 require './classes'
 require 'gh_gem_hw5_test_suite'
 
-def tasks
 # -----------------------------------------------------------------
 task = '1.3'
 puts "----| Execution 1 | of task #{task} -----".white.on_black
