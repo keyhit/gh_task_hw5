@@ -1,6 +1,7 @@
 def tasks
-require './classes'
+require 'classes'
 require 'gh_gem_hw5_test_suite'
+require 'colorize'
 
 # -----------------------------------------------------------------
 task = '1.3'
